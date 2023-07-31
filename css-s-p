@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* Styling for the heading */
+h1 {
+    color: #007bff; /* Blue color */
+    text-align: center;
+}
+
+/* Styling for the button */
+button {
+    background-color: #007bff; /* Blue color for background */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Add padding around the button */
+    font-size: 16px; /* Font size of the button text */
+    border: none; /* Remove border */
+    cursor: pointer; /* Show hand cursor on hover */
+    margin-top: 20px; /* Add some space above the button */
+}
+
+/* Style the button on hover */
+button:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+}
